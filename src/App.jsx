@@ -12,7 +12,9 @@ function App() {
       <p>Welcome to my React Mini Project!</p>
 
       <Footer/>
+      <p>Changes Hello</p>
     </div>
+    
   );
 }
 
